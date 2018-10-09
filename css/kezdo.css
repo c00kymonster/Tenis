@@ -1,0 +1,91 @@
+body {
+    background-image: url("../media/hatter.jpg")
+}
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
+img {
+    border-radius: 10px;
+}
+h1, h2, h3, h4, p, legend {background-color: palegreen;}
+
+ul {
+    background-color: palegreen;
+    max-width: 20%;
+}
+.elsooldal {
+    max-width: 34%;
+}
+.masodikoldal{
+    max-width: 60%;
+}
+.masodikoldal2{
+    max-width: 32%;
+}
+.masodikoldal3{
+    max-width: 8%;
+}
+ul {
+    max-width: 45%;
+}
+.masodikoldal4{
+    max-width: 9%;
+}
+.harmadikoldal{
+    max-width: 18%;
+}
+.harmadikoldal2{
+    max-width: 7%; 
+}
+.harmadikoldal3{
+    max-width: 5%;
+}
+ul{
+    max-width: 20%
+}
+.harmadikoldal4{
+    max-width: 3%;
+}
+.negyedikoldal{
+    max-width: 12%;
+}
+.negyedikoldal2{
+    max-width: 7%
+}
+.negyedikoldal3{
+    max-width: 5%
+}
+.negyedikoldal4{
+    max-width: 4%;
+}
+.otodikoldal{
+    max-width: 64%;
+}
+.hatodikoldal{
+    max-width: 9%;
+}
+.hatodikoldal2{
+    max-width: 13%;
+}
+.hatodikoldal3{
+    max-width: 12%;
+}
+
+    
+    
+}
